@@ -74,39 +74,3 @@ def play(guess, lives):
 play('Codecool', 7)
 # print(ord('0'))
 # print(ord('9'))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# guess = get_word_to_guess()
-# print(guess)
-
-
-# def play(word, lives):
-#     print("Hello world")
-
-
-
-#   0
-# -{ }-
-#  / \
-
-# gr = [
-#     ['','','0','',''],
-#     ['-','{','','}','-'],
-#     ['','/','','\','']
-# ]
