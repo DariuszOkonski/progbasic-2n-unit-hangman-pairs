@@ -60,9 +60,9 @@ def if_input_correct(guess, board, letter):
 def play(guess, lives):
     board = guess_board(guess)
     
-    letter = get_letter()
 
     while True:
+        letter = get_letter()
         board = if_input_correct(guess, board, letter)
 
     
